@@ -1,0 +1,7 @@
+﻿models/
+*.pkl
+cvd_env/
+__pycache__/
+*.pyc
+fix_dashboard.py
+write_dash.py
